@@ -16,3 +16,5 @@ second commit in branch main
 Resolving conflicts between test1 and main and committing changes  test1
 
 Resolving conflicts between test3 and main and committing changes  test3
+
+head commit test
