@@ -19,3 +19,5 @@ Resolving conflicts between test3 and main and committing changes  test3
 
 
 test3 leaf test
+
+test3 leaf test2
